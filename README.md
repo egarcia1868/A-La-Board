@@ -72,7 +72,7 @@ Leandra Turner
 
 ## RESOURCES
 
- * Big ups to my mentor, Calvin Carter for help throughout the production of this and many of my other projects.
+ * Big ups to my mentor, Calvin Carter, for help throughout the production of this and many of my other projects.
 
 **Login Background**: https://www.hipwallpaper.com
 
