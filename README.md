@@ -72,7 +72,7 @@ Leandra Turner
 
 ## RESOURCES
 
-*Thank you to Calvin Carter, Owais Jamil, and Amanda Padilla for all the help and endless patience.*
+ *Big ups to my mentor, Calvin Carter for help throughout the production of this and many of my other projects.*
 
 **Login Background**: https://www.hipwallpaper.com
 
