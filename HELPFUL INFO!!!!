@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/43650550/invalid-host-header-in-when-running-react-app
+
+Figure out how to get gitignore to stop trying to add config.json
+
+package.json (first one).  removed "proxy": "http://localhost:3002", from the blank line (line 5)
